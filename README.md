@@ -4,7 +4,7 @@
 
  **이름** : 이승현 | Lee Seung Hyun
  <br>
- **이메일** : sh980812@naver.com | dltmdgus4802@gmail.com
+ **이메일** : dltmdgus4802@gmail.com
 
 <a href="https://github.com/hyun812">
     <img src="https://github-readme-stats.vercel.app/api?username=hyun812&hide=stars&border_radius=8"/>
