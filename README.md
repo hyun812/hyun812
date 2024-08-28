@@ -32,10 +32,10 @@
   </ul>
 </div>
 
-<div>
-  <h3 style="margin-top:50px">🗂️ Project</h3>
+<div style="margin:50px 0">
+  <h3>🗂️ Project</h3>
 
-<table>
+<table >
   <tr>
     <th style="text-align: center" width="10%">Subject</th>
     <th style="text-align: center" width="34%">Description</th>
@@ -123,8 +123,6 @@
   </tr>
 </table>
 </div>
-
-<div style="margin-top:50px"></div>
 
 | <img src="https://github-readme-stats.vercel.app/api?username=hyun812&show_icons=true&theme=dracula" alt="hyun812's GitHub stats"  /> | [<img src="https://mazassumnida.wtf/api/generate_badge?boj=yu05279" alt="Solved.ac Profile"/>](https://solved.ac/yu05279) |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
