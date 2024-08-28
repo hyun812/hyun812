@@ -124,11 +124,7 @@
 </table>
 </div>
 
-<div style="margin-top:50px">
-  <a href="https://github.com/hyun812">
-    <img align="left" width="56%" src="https://github-readme-stats.vercel.app/api?username=hyun812&hide=stars&border_radius=8"/>
-  </a>
-  <a href="https://solved.ac/yu05279">
-    <img align="right" width="43%" src="https://mazassumnida.wtf/api/generate_badge?boj=yu05279"/>
-  </a>  
-</div>
+<div style="margin-top:50px"></div>
+
+| <img src="https://github-readme-stats.vercel.app/api?username=hyun812&show_icons=true&theme=dracula" alt="hyun812's GitHub stats"  /> | [<img src="https://mazassumnida.wtf/api/generate_badge?boj=yu05279" alt="Solved.ac Profile"/>](https://solved.ac/yu05279) |
+| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
