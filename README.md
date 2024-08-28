@@ -4,12 +4,16 @@
 - 🎯 I am currently interested in `frontend engineer`.
 - ✒️ I am studying `javascript`, `Next.js` now.
 
+<br/>
+
 ### 🏆 Awards and Certifications
 
 - 2024.08. 서울경제진흥원 주관 새싹 해커톤 본선 진출 "EaziONE"
 - 2024.05. 삼성 청년 SW 아카데미(SSAFY) 우수 자율 프로젝트 선정 "가까이"
 - 2024.04. 삼성 청년 SW 아카데미(SSAFY) 최우수 특화 프로젝트 선정 "preview"
 - 2023.06. 정보처리기사
+
+<br/>
 
 ### 🦾 Tech Stack
 
@@ -25,8 +29,7 @@
     <br>
     <img style="height:25px" src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img style="height:25px" src="https://img.shields.io/badge/styled component-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
-    <br>
-  </div>
+</div>
 
 <br/>
 
