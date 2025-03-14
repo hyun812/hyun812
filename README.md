@@ -23,9 +23,11 @@
     <img style="height:25px" src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
     <img style="height:25px" src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     <br>
-    <img style="height:25px" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
+    <img style="height:25px" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    <img style="height:25px" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
     <img style="height:25px" src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white">
     <img style="height:25px" src="https://img.shields.io/badge/React_query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white">
+    <img style="height:25px" src="https://img.shields.io/badge/Zustand-8D4B32?style=for-the-badge&logo=zustand&logoColor=white">
     <br>
     <img style="height:25px" src="https://img.shields.io/badge/tailwind css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     <img style="height:25px" src="https://img.shields.io/badge/styled component-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
@@ -37,12 +39,26 @@
 
 <table >
   <tr>
-    <th style="text-align: center" width="10%">Subject</th>
+    <th style="text-align: center" width="13%">Subject</th>
     <th style="text-align: center" width="34%">Description</th>
     <th style="text-align: center" width="10%">Member</th>
-    <th style="text-align: center" width="10%">Role</th>
+    <th style="text-align: center" width="8%">Role</th>
     <th style="text-align: center" width="25%">Period</th>
     <th style="text-align: center" width="11%">State</th>
+  </tr>
+  <tr>
+    <td style="text-align: center"><a href="https://github.com/hyun812/my-blog">< HYUN / ></a></td>
+    <td>개인 기술 블로그</td>
+    <td style="text-align: center">
+      <img alt="Static Badge" src="https://img.shields.io/badge/personal_1-4A90E2">  
+    </td>
+    <td style="text-align: center">
+      <img alt="Static Badge" src="https://img.shields.io/badge/fullstack%20-C65BCF">
+    </td>
+    <td style="text-align: center">2024.12.13 ~ 2024.02.09</td>
+    <td style="text-align: center">
+      <img alt="Static Badge" src="https://img.shields.io/badge/COMPLETE-5BBCFF">
+    </td>
   </tr>
   <tr>
     <td style="text-align: center"><a href="https://github.com/sesac-dev/eazione-front">EaziONE</a></td>
