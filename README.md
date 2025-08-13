@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td style="text-align: center"><a href="https://github.com/sesac-dev/eazione-front">EaziONE</a></td>
-    <td>외국인 노동자들의 민원 서류 자동 번역 및 완성 AI 서비스</td>
+    <td>외국인 노동자들을 위한 민원 서류 처리 서비스</td>
     <td style="text-align: center">
       <img alt="Static Badge" src="https://img.shields.io/badge/PM_1-FF204E">
       <img alt="Static Badge" src="https://img.shields.io/badge/designer_1-B6FFFA">
